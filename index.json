@@ -1,14 +1,68 @@
 {
-    "version": "1",
-    "packages": [
-        {
-            "name": "inkscape",
-            "version": "1.3.2",
-            "description": "Editor de gráficos vetoriais SVG",
-            "app_type": "NativeOffice",
-            "app_icon": "🎨",
-            "url": "https://SEU-USUARIO.github.io/goos-repo/packages/inkscape-1.3.2.sdst",
-            "size": 12345678
-        }
-    ]
+  "version": "1",
+  "packages": [
+    {
+      "name": "Inkscape",
+      "version": "1.3.2",
+      "description": "Editor de gráficos vetoriais SVG",
+      "app_type": "NativeOffice",
+      "app_icon": "🎨",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/inkscape-1.3.2.sdst",
+      "size": 618
+    },
+    {
+      "name": "GIMP",
+      "version": "2.10.36",
+      "description": "Editor de imagens rasterizadas",
+      "app_type": "NativeOffice",
+      "app_icon": "🖌️",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/gimp-2.10.36.sdst",
+      "size": 643
+    },
+    {
+      "name": "VLC",
+      "version": "3.0.21",
+      "description": "Reprodutor de mídia universal",
+      "app_type": "NativeOffice",
+      "app_icon": "🎬",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/vlc-3.0.21.sdst",
+      "size": 762
+    },
+    {
+      "name": "LibreOffice",
+      "version": "24.8",
+      "description": "Suite de escritório completa: Writer, Calc, Impress",
+      "app_type": "NativeOffice",
+      "app_icon": "📝",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/libreoffice-24.8.sdst",
+      "size": 894
+    },
+    {
+      "name": "Gedit",
+      "version": "46.2",
+      "description": "Editor de texto leve com syntax highlighting",
+      "app_type": "NativeOffice",
+      "app_icon": "📄",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/gedit-46.2.sdst",
+      "size": 753
+    },
+    {
+      "name": "Evince",
+      "version": "45.0",
+      "description": "Visualizador de documentos: PDF, PostScript, DjVu, CBZ",
+      "app_type": "NativeOffice",
+      "app_icon": "📕",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/evince-45.0.sdst",
+      "size": 695
+    },
+    {
+      "name": "Firefox",
+      "version": "128.0",
+      "description": "Navegador web Mozilla Firefox ESR",
+      "app_type": "NativeOffice",
+      "app_icon": "🦊",
+      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/firefox-128.0.sdst",
+      "size": 739
+    }
+  ]
 }
