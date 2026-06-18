@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "packages": [
+        {
+            "name": "inkscape",
+            "version": "1.3.2",
+            "description": "Editor de gráficos vetoriais SVG",
+            "app_type": "NativeOffice",
+            "app_icon": "🎨",
+            "url": "https://SEU-USUARIO.github.io/goos-repo/packages/inkscape-1.3.2.sdst",
+            "size": 12345678
+        }
+    ]
+}
