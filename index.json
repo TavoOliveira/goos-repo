@@ -7,7 +7,7 @@
       "description": "Editor de gráficos vetoriais SVG",
       "app_type": "NativeOffice",
       "app_icon": "🎨",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/inkscape-1.3.2.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/inkscape-1.3.2.sdst",
       "size": 618
     },
     {
@@ -16,7 +16,7 @@
       "description": "Editor de imagens rasterizadas",
       "app_type": "NativeOffice",
       "app_icon": "🖌️",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/gimp-2.10.36.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/gimp-2.10.36.sdst",
       "size": 643
     },
     {
@@ -25,7 +25,7 @@
       "description": "Reprodutor de mídia universal",
       "app_type": "NativeOffice",
       "app_icon": "🎬",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/vlc-3.0.21.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/vlc-3.0.21.sdst",
       "size": 762
     },
     {
@@ -34,7 +34,7 @@
       "description": "Suite de escritório completa: Writer, Calc, Impress",
       "app_type": "NativeOffice",
       "app_icon": "📝",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/libreoffice-24.8.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/libreoffice-24.8.sdst",
       "size": 894
     },
     {
@@ -43,7 +43,7 @@
       "description": "Editor de texto leve com syntax highlighting",
       "app_type": "NativeOffice",
       "app_icon": "📄",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/gedit-46.2.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/gedit-46.2.sdst",
       "size": 753
     },
     {
@@ -52,7 +52,7 @@
       "description": "Visualizador de documentos: PDF, PostScript, DjVu, CBZ",
       "app_type": "NativeOffice",
       "app_icon": "📕",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/evince-45.0.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/evince-45.0.sdst",
       "size": 695
     },
     {
@@ -61,7 +61,7 @@
       "description": "Navegador web Mozilla Firefox ESR",
       "app_type": "NativeOffice",
       "app_icon": "🦊",
-      "url": "https://SEU_USUARIO.github.io/goos-repo/packages/firefox-128.0.sdst",
+      "url": "https://tavooliveira.github.io/goos-repo/packages/firefox-128.0.sdst",
       "size": 739
     }
   ]
